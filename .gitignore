@@ -1,0 +1,13 @@
+client/node_modules/
+api/node_modules/
+
+build/
+client/.cache/
+api/.cache/
+client/dist/
+api/dist/
+
+client/.env
+api/.env
+
+
